@@ -3,7 +3,8 @@ package br.com.letscode.principal;
 import br.com.letscode.produto.Produto;
 
 import java.util.ArrayList;
-import java.util.Scanner;
+
+//teste
 
 public class Principal {
 
