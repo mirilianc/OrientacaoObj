@@ -8,7 +8,7 @@ public class Produto {
      public String nomeProduto;
      public float precoProduto;
 
-     //alteracao dri
+      //alteracao dri
     public ArrayList<Produto> lerProdutos(){
 
         ArrayList<Produto> listaProdutos = new ArrayList<Produto>();
